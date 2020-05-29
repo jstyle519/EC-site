@@ -12,6 +12,7 @@ class ItemController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
      // index()の引数でリクエスト内容を受け取れるようにする
      public function index(Request $request)
      {
